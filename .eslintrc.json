@@ -6,6 +6,8 @@
     "node": true
   },
   "extends": [
+    "next/core-web-vitals",
+    "next/typescript",
     "plugin:react/recommended",
     "plugin:prettier/recommended",
     "plugin:react-hooks/recommended",
