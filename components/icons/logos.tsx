@@ -1,6 +1,6 @@
-import { SvgWrapper } from "./utils";
-
 import { IconSvgProps } from "@/types";
+
+import { SvgWrapper } from "./utils";
 
 export const VercelLogo: React.FC<IconSvgProps> = (props: IconSvgProps) => (
   <SvgWrapper viewBox="0 0 283 64" {...props}>

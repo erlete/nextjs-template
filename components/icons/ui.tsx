@@ -1,6 +1,6 @@
-import { SvgWrapper } from "./utils";
-
 import { IconSvgProps } from "@/types";
+
+import { SvgWrapper } from "./utils";
 
 export const MoonFilledIcon: React.FC<IconSvgProps> = (props: IconSvgProps) => (
   <SvgWrapper viewBox="0 0 24 24" {...props}>
